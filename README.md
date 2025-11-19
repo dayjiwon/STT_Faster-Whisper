@@ -25,8 +25,10 @@ This project is fully optimized for CPU-only environments, making it ideal for d
 
 ## Installation
 1) Clone Repository
-git clone https://github.com/USER/STT_Whisper.git
+```
+git clone https://github.com/dayjiwon/STT_Faster-Whisper.git
 cd STT_Whisper
+```
 
 2) Install Dependencies
 Python version check

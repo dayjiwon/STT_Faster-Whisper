@@ -31,6 +31,7 @@ cd STT_Whisper
 ```
 
 2) Install Dependencies
+
 Python version check
 ```
 python3 --version

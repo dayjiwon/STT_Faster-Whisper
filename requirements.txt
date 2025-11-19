@@ -1,0 +1,6 @@
+faster-whisper
+onnxruntime
+onnxruntime-tools
+sounddevice
+scipy
+numpy
